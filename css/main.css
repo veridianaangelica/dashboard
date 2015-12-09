@@ -1,0 +1,13 @@
+.container_menu{
+	background: black;
+}
+.list-menu li{
+	display: inline-block;
+}
+.avatar{
+	width: 50px;
+	text-align: right;
+}
+.list-icon li{
+	display: inline-block;
+}
