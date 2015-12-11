@@ -1113,3 +1113,38 @@ label {
     background: #ffffff;
     box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
 }
+
+
+/*----------------- Estilos personalizados */
+#topbar
+{
+    background: #424a5d;
+    height: 50px;
+    position: fixed;
+    z-index: 3;
+    right: 0;
+    left: 0;
+}
+#topbar a
+{
+    color:#FFFFFF;
+    font-size: 16px;
+}
+#iconos{
+    font-size: 50px;
+}
+#clock{
+    font-size: 25px;
+    color:white;
+    background-color: #01DFD7;
+    border-radius: 100%;
+}
+.icon{
+    width: 40px;
+}
+.list-link li{
+    display: inline-block;
+}
+#botones{
+    border-radius: 20px;
+}
